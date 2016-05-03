@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fridericiritsch08wachgoog/fridericiritsch08wachgoog_0458.png"; bbox 0 0 3254 5090; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 491 657 1185 738">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 491 657 1185 738">
+     <span class='ocr_line' id='line_1_1' title="bbox 491 657 1185 738; baseline 0 -20"><span class='ocrx_word' id='word_1_1' title='bbox 491 658 539 718; x_wconf 87' lang='lat' dir='ltr'><strong>Ad</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 557 659 715 720; x_wconf 74' lang='lat' dir='ltr'><strong>Ritschelii</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 733 657 840 736; x_wconf 77' lang='lat' dir='ltr'>Opuso.</span> <span class='ocrx_word' id='word_1_4' title='bbox 855 659 898 718; x_wconf 83' lang='lat' dir='ltr'><strong>IV</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 917 677 987 738; x_wconf 81' lang='lat' dir='ltr'>pag.</span> <span class='ocrx_word' id='word_1_6' title='bbox 1003 660 1077 719; x_wconf 78' lang='lat'><strong>435.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1183 713 1185 718; x_wconf 91' lang='lat'><em>.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 175 4126 1170 4279">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 175 4126 1170 4279">
+     <span class='ocr_line' id='line_1_2' title="bbox 175 4126 1170 4279; baseline 0.003 -55.093"><span class='ocrx_word' id='word_1_8' title='bbox 175 4126 232 4279; x_wconf 96' lang='grc' dir='ltr'>Ξ</span> <span class='ocrx_word' id='word_1_9' title='bbox 240 4156 443 4229; x_wconf 69' lang='lat' dir='ltr'>--leToR</span> <span class='ocrx_word' id='word_1_10' title='bbox 446 4154 641 4227; x_wconf 69' lang='lat' dir='ltr'>[ficssvs</span> <span class='ocrx_word' id='word_1_11' title='bbox 646 4156 758 4226; x_wconf 73' lang='grc' dir='ltr'>ΞΚΙΤ</span> <span class='ocrx_word' id='word_1_12' title='bbox 764 4155 1095 4230; x_wconf 35' lang='grc' dir='ltr'>ΗὸΙΚΞΛΛΡΒΟνΞ</span> <span class='ocrx_word' id='word_1_13' title='bbox 1099 4155 1170 4227; x_wconf 69' lang='lat' dir='ltr'><strong>fils</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1632 5090">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1632 5090">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1632 5090; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1632 5090; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
